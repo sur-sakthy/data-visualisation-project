@@ -1,0 +1,62 @@
+{
+	"info": {
+		"_postman_id": "07c942df-bf6b-4404-ae10-7092cf4eb023",
+		"name": "Steam",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21888070"
+	},
+	"item": [
+		{
+			"name": "App Details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "store.steampowered.com/api/appdetails?appids=292030",
+					"host": [
+						"store",
+						"steampowered",
+						"com"
+					],
+					"path": [
+						"api",
+						"appdetails"
+					],
+					"query": [
+						{
+							"key": "appids",
+							"value": "292030"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "App Reviews",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "store.steampowered.com/appreviews/292030?json=1",
+					"host": [
+						"store",
+						"steampowered",
+						"com"
+					],
+					"path": [
+						"appreviews",
+						"292030"
+					],
+					"query": [
+						{
+							"key": "json",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
