@@ -1,3 +1,5 @@
-/Data/steam_reviews.csv.zip
-/Data/steam_reviews.csv
+# data files too big - exceeds limit of 2 GB/file allowed by GitHub
+/data/steam_reviews.csv.zip
+/data/steam_reviews.csv
+
 .DS_Store
