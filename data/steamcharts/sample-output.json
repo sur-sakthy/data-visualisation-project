@@ -1,0 +1,639 @@
+{
+  "id": 292030,
+  "name": "The Witcher 3: Wild Hunt",
+  "playingTwelveHoursAgo": 11169,
+  "twentyFourHourPeek": 25164,
+  "allTimePeek": 103329,
+  "stats": [
+    {
+      "month": "Last 30 Days",
+      "averagePlayers": 11464.82,
+      "gain": -1091.4,
+      "gainInPercent": -8.69,
+      "peakPlayers": 25164
+    },
+    {
+      "month": "September 2022",
+      "averagePlayers": 12556.26,
+      "gain": -1015.18,
+      "gainInPercent": -7.48,
+      "peakPlayers": 28770
+    },
+    {
+      "month": "August 2022",
+      "averagePlayers": 13571.44,
+      "gain": 90,
+      "gainInPercent": 0.67,
+      "peakPlayers": 26510
+    },
+    {
+      "month": "July 2022",
+      "averagePlayers": 13481.44,
+      "gain": 1303.78,
+      "gainInPercent": 10.71,
+      "peakPlayers": 24297
+    },
+    {
+      "month": "June 2022",
+      "averagePlayers": 12177.66,
+      "gain": -1783.51,
+      "gainInPercent": -12.77,
+      "peakPlayers": 23048
+    },
+    {
+      "month": "May 2022",
+      "averagePlayers": 13961.17,
+      "gain": -1113.86,
+      "gainInPercent": -7.39,
+      "peakPlayers": 31716
+    },
+    {
+      "month": "April 2022",
+      "averagePlayers": 15075.03,
+      "gain": -2757.08,
+      "gainInPercent": -15.46,
+      "peakPlayers": 31534
+    },
+    {
+      "month": "March 2022",
+      "averagePlayers": 17832.11,
+      "gain": -3560.67,
+      "gainInPercent": -16.64,
+      "peakPlayers": 40775
+    },
+    {
+      "month": "February 2022",
+      "averagePlayers": 21392.78,
+      "gain": -15337.82,
+      "gainInPercent": -41.76,
+      "peakPlayers": 46617
+    },
+    {
+      "month": "January 2022",
+      "averagePlayers": 36730.6,
+      "gain": 11603.01,
+      "gainInPercent": 46.18,
+      "peakPlayers": 78592
+    },
+    {
+      "month": "December 2021",
+      "averagePlayers": 25127.6,
+      "gain": 9667.55,
+      "gainInPercent": 62.53,
+      "peakPlayers": 62211
+    },
+    {
+      "month": "November 2021",
+      "averagePlayers": 15460.05,
+      "gain": 1926.97,
+      "gainInPercent": 14.24,
+      "peakPlayers": 31845
+    },
+    {
+      "month": "October 2021",
+      "averagePlayers": 13533.08,
+      "gain": -6146.43,
+      "gainInPercent": -31.23,
+      "peakPlayers": 32571
+    },
+    {
+      "month": "September 2021",
+      "averagePlayers": 19679.51,
+      "gain": 1430.43,
+      "gainInPercent": 7.84,
+      "peakPlayers": 44434
+    },
+    {
+      "month": "August 2021",
+      "averagePlayers": 18249.08,
+      "gain": -1620.06,
+      "gainInPercent": -8.15,
+      "peakPlayers": 44132
+    },
+    {
+      "month": "July 2021",
+      "averagePlayers": 19869.14,
+      "gain": 2427.58,
+      "gainInPercent": 13.92,
+      "peakPlayers": 38753
+    },
+    {
+      "month": "June 2021",
+      "averagePlayers": 17441.56,
+      "gain": 630.38,
+      "gainInPercent": 3.75,
+      "peakPlayers": 34733
+    },
+    {
+      "month": "May 2021",
+      "averagePlayers": 16811.18,
+      "gain": -2007.62,
+      "gainInPercent": -10.67,
+      "peakPlayers": 41446
+    },
+    {
+      "month": "April 2021",
+      "averagePlayers": 18818.8,
+      "gain": 3405.54,
+      "gainInPercent": 22.09,
+      "peakPlayers": 43867
+    },
+    {
+      "month": "March 2021",
+      "averagePlayers": 15413.25,
+      "gain": -2386.29,
+      "gainInPercent": -13.41,
+      "peakPlayers": 37844
+    },
+    {
+      "month": "February 2021",
+      "averagePlayers": 17799.54,
+      "gain": -2902.9,
+      "gainInPercent": -14.02,
+      "peakPlayers": 38603
+    },
+    {
+      "month": "January 2021",
+      "averagePlayers": 20702.44,
+      "gain": -439.25,
+      "gainInPercent": -2.08,
+      "peakPlayers": 42783
+    },
+    {
+      "month": "December 2020",
+      "averagePlayers": 21141.69,
+      "gain": 4030.56,
+      "gainInPercent": 23.56,
+      "peakPlayers": 41042
+    },
+    {
+      "month": "November 2020",
+      "averagePlayers": 17111.12,
+      "gain": 3194.22,
+      "gainInPercent": 22.95,
+      "peakPlayers": 37517
+    },
+    {
+      "month": "October 2020",
+      "averagePlayers": 13916.9,
+      "gain": -4393.7,
+      "gainInPercent": -24,
+      "peakPlayers": 27402
+    },
+    {
+      "month": "September 2020",
+      "averagePlayers": 18310.61,
+      "gain": 1982.99,
+      "gainInPercent": 12.15,
+      "peakPlayers": 38742
+    },
+    {
+      "month": "August 2020",
+      "averagePlayers": 16327.61,
+      "gain": -2500.77,
+      "gainInPercent": -13.28,
+      "peakPlayers": 36555
+    },
+    {
+      "month": "July 2020",
+      "averagePlayers": 18828.38,
+      "gain": -172.45,
+      "gainInPercent": -0.91,
+      "peakPlayers": 34735
+    },
+    {
+      "month": "June 2020",
+      "averagePlayers": 19000.83,
+      "gain": -2433.65,
+      "gainInPercent": -11.35,
+      "peakPlayers": 35118
+    },
+    {
+      "month": "May 2020",
+      "averagePlayers": 21434.48,
+      "gain": -5810.85,
+      "gainInPercent": -21.33,
+      "peakPlayers": 41736
+    },
+    {
+      "month": "April 2020",
+      "averagePlayers": 27245.33,
+      "gain": 5788.21,
+      "gainInPercent": 26.98,
+      "peakPlayers": 61236
+    },
+    {
+      "month": "March 2020",
+      "averagePlayers": 21457.11,
+      "gain": -6289.73,
+      "gainInPercent": -22.67,
+      "peakPlayers": 49787
+    },
+    {
+      "month": "February 2020",
+      "averagePlayers": 27746.84,
+      "gain": -20470.48,
+      "gainInPercent": -42.45,
+      "peakPlayers": 62188
+    },
+    {
+      "month": "January 2020",
+      "averagePlayers": 48217.32,
+      "gain": 20857.28,
+      "gainInPercent": 76.23,
+      "peakPlayers": 103329
+    },
+    {
+      "month": "December 2019",
+      "averagePlayers": 27360.04,
+      "gain": 14199.4,
+      "gainInPercent": 107.89,
+      "peakPlayers": 94601
+    },
+    {
+      "month": "November 2019",
+      "averagePlayers": 13160.64,
+      "gain": 3260.46,
+      "gainInPercent": 32.93,
+      "peakPlayers": 26594
+    },
+    {
+      "month": "October 2019",
+      "averagePlayers": 9900.18,
+      "gain": -3355.44,
+      "gainInPercent": -25.31,
+      "peakPlayers": 20367
+    },
+    {
+      "month": "September 2019",
+      "averagePlayers": 13255.62,
+      "gain": 230.22,
+      "gainInPercent": 1.77,
+      "peakPlayers": 30585
+    },
+    {
+      "month": "August 2019",
+      "averagePlayers": 13025.41,
+      "gain": -5422.24,
+      "gainInPercent": -29.39,
+      "peakPlayers": 25634
+    },
+    {
+      "month": "July 2019",
+      "averagePlayers": 18447.65,
+      "gain": 3253.44,
+      "gainInPercent": 21.41,
+      "peakPlayers": 35770
+    },
+    {
+      "month": "June 2019",
+      "averagePlayers": 15194.21,
+      "gain": 5069.2,
+      "gainInPercent": 50.07,
+      "peakPlayers": 33044
+    },
+    {
+      "month": "May 2019",
+      "averagePlayers": 10125,
+      "gain": -2383.73,
+      "gainInPercent": -19.06,
+      "peakPlayers": 21319
+    },
+    {
+      "month": "April 2019",
+      "averagePlayers": 12508.73,
+      "gain": 1631.73,
+      "gainInPercent": 15,
+      "peakPlayers": 33783
+    },
+    {
+      "month": "March 2019",
+      "averagePlayers": 10877.01,
+      "gain": -3649.67,
+      "gainInPercent": -25.12,
+      "peakPlayers": 23575
+    },
+    {
+      "month": "February 2019",
+      "averagePlayers": 14526.67,
+      "gain": 1463.48,
+      "gainInPercent": 11.2,
+      "peakPlayers": 33762
+    },
+    {
+      "month": "January 2019",
+      "averagePlayers": 13063.19,
+      "gain": 1033.47,
+      "gainInPercent": 8.59,
+      "peakPlayers": 25651
+    },
+    {
+      "month": "December 2018",
+      "averagePlayers": 12029.72,
+      "gain": -1375.59,
+      "gainInPercent": -10.26,
+      "peakPlayers": 23943
+    },
+    {
+      "month": "November 2018",
+      "averagePlayers": 13405.32,
+      "gain": 3304.64,
+      "gainInPercent": 32.72,
+      "peakPlayers": 27237
+    },
+    {
+      "month": "October 2018",
+      "averagePlayers": 10100.67,
+      "gain": -2131.7,
+      "gainInPercent": -17.43,
+      "peakPlayers": 19557
+    },
+    {
+      "month": "September 2018",
+      "averagePlayers": 12232.38,
+      "gain": 1994.54,
+      "gainInPercent": 19.48,
+      "peakPlayers": 25800
+    },
+    {
+      "month": "August 2018",
+      "averagePlayers": 10237.83,
+      "gain": -4880.77,
+      "gainInPercent": -32.28,
+      "peakPlayers": 19278
+    },
+    {
+      "month": "July 2018",
+      "averagePlayers": 15118.61,
+      "gain": 1412.18,
+      "gainInPercent": 10.3,
+      "peakPlayers": 28266
+    },
+    {
+      "month": "June 2018",
+      "averagePlayers": 13706.43,
+      "gain": 3573.23,
+      "gainInPercent": 35.26,
+      "peakPlayers": 29642
+    },
+    {
+      "month": "May 2018",
+      "averagePlayers": 10133.2,
+      "gain": -1563.92,
+      "gainInPercent": -13.37,
+      "peakPlayers": 19144
+    },
+    {
+      "month": "April 2018",
+      "averagePlayers": 11697.12,
+      "gain": 171.92,
+      "gainInPercent": 1.49,
+      "peakPlayers": 26152
+    },
+    {
+      "month": "March 2018",
+      "averagePlayers": 11525.2,
+      "gain": -4216.15,
+      "gainInPercent": -26.78,
+      "peakPlayers": 24060
+    },
+    {
+      "month": "February 2018",
+      "averagePlayers": 15741.35,
+      "gain": 226.75,
+      "gainInPercent": 1.46,
+      "peakPlayers": 31972
+    },
+    {
+      "month": "January 2018",
+      "averagePlayers": 15514.6,
+      "gain": 2582.83,
+      "gainInPercent": 19.97,
+      "peakPlayers": 29721
+    },
+    {
+      "month": "December 2017",
+      "averagePlayers": 12931.77,
+      "gain": -582.95,
+      "gainInPercent": -4.31,
+      "peakPlayers": 24798
+    },
+    {
+      "month": "November 2017",
+      "averagePlayers": 13514.72,
+      "gain": 1363.72,
+      "gainInPercent": 11.22,
+      "peakPlayers": 28177
+    },
+    {
+      "month": "October 2017",
+      "averagePlayers": 12151,
+      "gain": 1355.03,
+      "gainInPercent": 12.55,
+      "peakPlayers": 33188
+    },
+    {
+      "month": "September 2017",
+      "averagePlayers": 10795.97,
+      "gain": 708.83,
+      "gainInPercent": 7.03,
+      "peakPlayers": 23085
+    },
+    {
+      "month": "August 2017",
+      "averagePlayers": 10087.14,
+      "gain": -4786.93,
+      "gainInPercent": -32.18,
+      "peakPlayers": 18445
+    },
+    {
+      "month": "July 2017",
+      "averagePlayers": 14874.07,
+      "gain": -1152.16,
+      "gainInPercent": -7.19,
+      "peakPlayers": 29255
+    },
+    {
+      "month": "June 2017",
+      "averagePlayers": 16026.23,
+      "gain": 6239.75,
+      "gainInPercent": 63.76,
+      "peakPlayers": 34131
+    },
+    {
+      "month": "May 2017",
+      "averagePlayers": 9786.48,
+      "gain": -1386.81,
+      "gainInPercent": -12.41,
+      "peakPlayers": 17637
+    },
+    {
+      "month": "April 2017",
+      "averagePlayers": 11173.29,
+      "gain": 860.74,
+      "gainInPercent": 8.35,
+      "peakPlayers": 22658
+    },
+    {
+      "month": "March 2017",
+      "averagePlayers": 10312.55,
+      "gain": -2706.48,
+      "gainInPercent": -20.79,
+      "peakPlayers": 19812
+    },
+    {
+      "month": "February 2017",
+      "averagePlayers": 13019.03,
+      "gain": -3029.6,
+      "gainInPercent": -18.88,
+      "peakPlayers": 25989
+    },
+    {
+      "month": "January 2017",
+      "averagePlayers": 16048.63,
+      "gain": 4151.47,
+      "gainInPercent": 34.89,
+      "peakPlayers": 31967
+    },
+    {
+      "month": "December 2016",
+      "averagePlayers": 11897.16,
+      "gain": 2784.15,
+      "gainInPercent": 30.55,
+      "peakPlayers": 24570
+    },
+    {
+      "month": "November 2016",
+      "averagePlayers": 9113.02,
+      "gain": 333.46,
+      "gainInPercent": 3.8,
+      "peakPlayers": 21281
+    },
+    {
+      "month": "October 2016",
+      "averagePlayers": 8779.56,
+      "gain": -712.56,
+      "gainInPercent": -7.51,
+      "peakPlayers": 17821
+    },
+    {
+      "month": "September 2016",
+      "averagePlayers": 9492.12,
+      "gain": -61.88,
+      "gainInPercent": -0.65,
+      "peakPlayers": 18718
+    },
+    {
+      "month": "August 2016",
+      "averagePlayers": 9554.01,
+      "gain": -4876.45,
+      "gainInPercent": -33.79,
+      "peakPlayers": 18860
+    },
+    {
+      "month": "July 2016",
+      "averagePlayers": 14430.46,
+      "gain": -7693.33,
+      "gainInPercent": -34.77,
+      "peakPlayers": 31244
+    },
+    {
+      "month": "June 2016",
+      "averagePlayers": 22123.79,
+      "gain": 12672.55,
+      "gainInPercent": 134.08,
+      "peakPlayers": 53576
+    },
+    {
+      "month": "May 2016",
+      "averagePlayers": 9451.24,
+      "gain": 4345.82,
+      "gainInPercent": 85.12,
+      "peakPlayers": 49246
+    },
+    {
+      "month": "April 2016",
+      "averagePlayers": 5105.42,
+      "gain": -691.59,
+      "gainInPercent": -11.93,
+      "peakPlayers": 10318
+    },
+    {
+      "month": "March 2016",
+      "averagePlayers": 5797.01,
+      "gain": -1942.29,
+      "gainInPercent": -25.1,
+      "peakPlayers": 11539
+    },
+    {
+      "month": "February 2016",
+      "averagePlayers": 7739.3,
+      "gain": -3314.15,
+      "gainInPercent": -29.98,
+      "peakPlayers": 14799
+    },
+    {
+      "month": "January 2016",
+      "averagePlayers": 11053.46,
+      "gain": 2086.86,
+      "gainInPercent": 23.27,
+      "peakPlayers": 23429
+    },
+    {
+      "month": "December 2015",
+      "averagePlayers": 8966.6,
+      "gain": 2731.83,
+      "gainInPercent": 43.82,
+      "peakPlayers": 18536
+    },
+    {
+      "month": "November 2015",
+      "averagePlayers": 6234.78,
+      "gain": -1865.02,
+      "gainInPercent": -23.03,
+      "peakPlayers": 15187
+    },
+    {
+      "month": "October 2015",
+      "averagePlayers": 8099.79,
+      "gain": 1840.75,
+      "gainInPercent": 29.41,
+      "peakPlayers": 20651
+    },
+    {
+      "month": "September 2015",
+      "averagePlayers": 6259.05,
+      "gain": -838.79,
+      "gainInPercent": -11.82,
+      "peakPlayers": 13733
+    },
+    {
+      "month": "August 2015",
+      "averagePlayers": 7097.83,
+      "gain": -3007.96,
+      "gainInPercent": -29.76,
+      "peakPlayers": 13948
+    },
+    {
+      "month": "July 2015",
+      "averagePlayers": 10105.8,
+      "gain": -12707.32,
+      "gainInPercent": -55.7,
+      "peakPlayers": 22148
+    },
+    {
+      "month": "June 2015",
+      "averagePlayers": 22813.12,
+      "gain": -29103.42,
+      "gainInPercent": -56.06,
+      "peakPlayers": 55408
+    },
+    {
+      "month": "May 2015",
+      "averagePlayers": 51916.54,
+      "gain": null,
+      "gainInPercent": null,
+      "peakPlayers": 92268
+    }
+  ]
+}
