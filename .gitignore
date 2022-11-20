@@ -1,5 +1,9 @@
+# IDE files
+.idea/
+
 # data files too big - exceeds limit of 2 GB/file allowed by GitHub
 /data/steam_reviews.csv.zip
 /data/steam_reviews.csv
 
+# mac files
 .DS_Store
