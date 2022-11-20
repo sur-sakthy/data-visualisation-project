@@ -6,5 +6,5 @@ Repository structure:
 1. [code](code/) - tableau file that contains the visualisations
 2. [resources](resources/) - a guide to selecting the right chart(s) for the narrative
 3. [data](data/) - contains the datasets and python notebooks that were used to gather and clean data
-4. [inspiration](inspiration/) - images to get inspired from to tell a memorable narrative and compelling narrative 
+4. [inspiration](inspo/) - images to get inspired from to tell a memorable narrative and compelling narrative 
 5. [report](report/) - contains the report to be submitted 
