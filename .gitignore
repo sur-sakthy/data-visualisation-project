@@ -1,12 +1,14 @@
 # IDE files
 .idea/
 
-# data files too big - exceeds limit of 2 GB/file allowed by GitHub
+# data files too big - exceeds limit of 100 MB/file allowed by GitHub
 # will be uploaded on Google Drive and links shared in project README with additional/further details
 /data/steam_reviews.csv.zip
 /data/steam_reviews.csv
 /data/sentiment-analysis/steam_review_cleaned_english.csv
 /data/sentiment_analysis_results_english.csv
+/video/
+/submission/Data Visualisation Presentation.mp4
 
 # mac files
 .DS_Store
