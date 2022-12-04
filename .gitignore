@@ -6,7 +6,7 @@
 /data/steam_reviews.csv.zip
 /data/steam_reviews.csv
 /data/sentiment-analysis/steam_review_cleaned_english.csv
-/data/sentiment-analysis/sentiment_analysis_results_english.csv
+/data/sentiment_analysis_results_english.csv
 
 # mac files
 .DS_Store
