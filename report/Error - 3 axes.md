@@ -1,5 +1,6 @@
 An error occurred while communicating with data source 'steam_reviews'
 
+```sql
 Error Code: 73F9639A
 [SQLSTATE:57014] canceled
 SELECT "t2"."mn:Calculation_33565923760545797:ok" AS "mn:Calculation_33565923760545797:ok",
@@ -33,3 +34,4 @@ FROM "db1001"."TableauTemp"."steam_charts#csv" "steam_charts.csv"
 GROUP BY 1,
   2,
   4
+```
